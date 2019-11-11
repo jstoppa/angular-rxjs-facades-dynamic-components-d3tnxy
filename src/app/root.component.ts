@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
 
 const WIDGETS = [
   { apiId: '1', widgetName: 'WidgetOneComponent' },
-  { apiId: '2', widgetName: 'WidgetTwoComponent' },
+  { apiId: '1', widgetName: 'WidgetTwoComponent' },
   { apiId: '3', widgetName: 'WidgetOneComponent' },
   { apiId: '4', widgetName: 'WidgetTwoComponent' },
   { apiId: '5', widgetName: 'WidgetOneComponent' }
